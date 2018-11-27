@@ -1,2 +1,3 @@
 dzien dobry
 jeszcze jeden tekst
+git jest cool
